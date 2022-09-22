@@ -6,13 +6,23 @@ has_children: true
 
 # 連結
 
-
 ## Xero Linux
 
-* [Xero Linux](https://xerolinux.xyz/)
-* [https://github.com/xerolinux/kde_iso](https://github.com/xerolinux/kde_iso)
+* [XeroLinux](https://github.com/xerolinux) ([GitHub](https://github.com/xerolinux))
+* XeroLinux / [Forum](https://forum.xerolinux.xyz)
+* YouTube / [XeroLinuxOfficial](https://www.youtube.com/c/XeroLinuxOfficial)
+* GitHub / xerolinux / [xero_iso](https://github.com/xerolinux/xero_iso)
+
+## Download
+
+* SourceForge / [XeroLinux](https://sourceforge.net/projects/xerolinux/files/)
+* YuruMirror / [XeroLinux](https://mirror.funami.tech/xerolinux/)
+* fosstorrents / [XeroLinux](https://fosstorrents.com/distributions/xerolinux/)
+
+
+## TechXero
+
 * [https://github.com/TechXero/NordGrub](https://github.com/TechXero/NordGrub)
-* [https://sourceforge.net/projects/xerolinux/](https://sourceforge.net/projects/xerolinux/)
 * [https://sourceforge.net/u/techxero/profile/](https://sourceforge.net/u/techxero/profile/)
 
 
