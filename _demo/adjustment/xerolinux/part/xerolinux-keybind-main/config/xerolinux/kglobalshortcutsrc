@@ -349,8 +349,8 @@ toggle do not disturb=none,,Toggle do not disturb
 
 [systemsettings.desktop]
 _k_friendly_name=System Settings
-_launch=Tools,Tools,System Settings
-kcm-kscreen=none,none,Display Configuration
+_launch=Tools\tAlt+Shift+S,Tools,System Settings
+kcm-kscreen=Alt+Shift+O,none,Display Configuration
 kcm-lookandfeel=none,none,Global Theme
 kcm-users=none,none,Users
 powerdevilprofilesconfig=none,none,Energy Saving
