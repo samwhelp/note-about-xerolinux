@@ -272,7 +272,7 @@ _launch=Alt+Shift+F,Meta+E,Dolphin
 
 [org.kde.kate.desktop]
 _k_friendly_name=Kate
-_launch=Alt+Shift+E,none,Kate
+_launch=Ctrl+Alt+E,none,Kate
 
 [org.kde.konsole.desktop]
 NewTab=none,none,Open a New Tab
@@ -284,6 +284,10 @@ _launch=Ctrl+Alt+T\tAlt+Return\tAlt+Shift+A,Ctrl+Alt+T,Konsole
 RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Run command on clipboard contents
 _k_friendly_name=KRunner
 _launch=Alt+Space\tAlt+F2\tSearch,Alt+Space\tAlt+F2\tSearch,KRunner
+
+[org.kde.kwrite.desktop]
+_k_friendly_name=KWrite
+_launch=Alt+Shift+E,none,KWrite
 
 [org.kde.plasma.emojier.desktop]
 _k_friendly_name=Emoji Selector
