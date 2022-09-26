@@ -57,7 +57,7 @@ numlockx /usr/share/licenses/numlockx/LICENSE
 
 ### Config File Path
 
-> ~/.config/kcminputrc => Setion: [Keyboard]
+> [~/.config/kcminputrc](https://github.com/xerolinux/xero-kde-config/blob/main/etc/skel/.config/kcminputrc#L6) => Setion: [Keyboard]
 
 
 
@@ -72,7 +72,7 @@ numlockx /usr/share/licenses/numlockx/LICENSE
 
 ### Config File Path
 
-> /etc/sddm.conf => Setion: [General]
+> [/etc/sddm.conf](https://github.com/xerolinux/xero_iso/blob/main/archiso/airootfs/etc/sddm.conf#L4) => Setion: [General]
 
 | Option | Key=Value |
 | --- | --- |
@@ -83,3 +83,4 @@ numlockx /usr/share/licenses/numlockx/LICENSE
 * $ man [sddm.conf](https://man.archlinux.org/man/sddm.conf.5.en#OPTIONS)
 
 
+> xerolinux: [/etc/sddm.conf.d/kde_settings.conf](https://github.com/xerolinux/xero_iso/blob/main/archiso/airootfs/etc/sddm.conf.d/kde_settings.conf#L9)
