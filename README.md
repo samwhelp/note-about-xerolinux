@@ -25,6 +25,7 @@
 ## samwhelp
 
 * [個人筆記](https://samwhelp.github.io/book/)
+* [xerolinux-adjustment](https://samwhelp.github.io/xerolinux-adjustment/) / ([GitHub](https://github.com/samwhelp/xerolinux-adjustment))
 * [system-modeling](https://samwhelp.github.io/system-modeling/) / ([GitHub](https://github.com/samwhelp/system-modeling))
 * [ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
 * [manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
