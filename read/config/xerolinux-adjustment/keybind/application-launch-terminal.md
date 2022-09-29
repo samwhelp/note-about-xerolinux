@@ -23,7 +23,7 @@ grand_parent: 設定
 
 ## 下拉式
 
-* [設定片段](https://github.com/samwhelp/note-about-xerolinux/blob/gh-pages/_demo/adjustment/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L359-381)
+* [設定片段](https://github.com/samwhelp/note-about-xerolinux/blob/gh-pages/_demo/adjustment/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L359-L361)
 
 | 按鍵組合          | 功能                      | 執行指令                     |
 | ----------------- | ------------------------- | ---------------------------- |
