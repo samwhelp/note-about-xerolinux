@@ -1,6 +1,6 @@
 ---
 title: 系統選單
-nav_order: 5001
+nav_order: 5002
 has_children: false
 parent: xerolinux-adjustment
 grand_parent: 設定
