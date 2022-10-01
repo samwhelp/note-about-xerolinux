@@ -14,6 +14,7 @@ parent: 設定
 | 說明 |
 | --- |
 | [中文版](https://samwhelp.github.io/note-about-xerolinux/read/config/xerolinux-adjustment/keybind.html) |
+| [英文版](https://samwhelp.github.io/xerolinux-adjustment/read/config/xerolinux-adjustment/keybind.html) |
 
 
 
