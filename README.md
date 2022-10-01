@@ -11,6 +11,7 @@
 ## 主題
 
 * [入門](#入門)
+* [設定](#設定)
 * [相關筆記](#相關筆記)
 
 
@@ -24,12 +25,20 @@
 | [Boot ISO By GRUB](https://samwhelp.github.io/note-about-xerolinux/read/start/download/boot_iso_by_grub.html) |
 
 
+## 設定
+
+| 設定 |
+| --- |
+| [按鍵綁定](https://samwhelp.github.io/note-about-xerolinux/read/config/xerolinux-adjustment/keybind.html) |
+
+
 ## 相關筆記
 
 ## samwhelp
 
 * [個人筆記](https://samwhelp.github.io/book/)
 * [system-modeling](https://samwhelp.github.io/system-modeling/) / ([GitHub](https://github.com/samwhelp/system-modeling))
+* [KDE 探索筆記](https://samwhelp.github.io/note-about-kde/)
 * [ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
 * [manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
 * [archcraft 探索筆記](https://samwhelp.github.io/note-about-archcraft/) / [archcraft-adjustment-package](https://github.com/samwhelp/archcraft-adjustment-package)
