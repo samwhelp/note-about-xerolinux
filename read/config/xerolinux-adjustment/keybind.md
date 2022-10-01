@@ -26,7 +26,7 @@ grand_parent: 設定
 
 這篇的根據，是採用「[客製的設定](https://samwhelp.github.io/note-about-xerolinux/read/config/xerolinux-adjustment.html)」，
 
-請參考「[我的設定檔: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/note-about-xerolinux/blob/gh-pages/_demo/adjustment/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc)」。
+請參考「[我的設定檔: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc)」。
 
 
 ## 系統操作

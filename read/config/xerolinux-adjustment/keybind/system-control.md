@@ -12,7 +12,7 @@ grand_parent: 設定
 
 ## 切換「顯示桌面」
 
-* [設定片段](https://github.com/samwhelp/note-about-xerolinux/blob/gh-pages/_demo/adjustment/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L74)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L74)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
@@ -21,7 +21,7 @@ grand_parent: 設定
 
 ## 登出或關閉系統
 
-* [設定片段](https://github.com/samwhelp/note-about-xerolinux/blob/gh-pages/_demo/adjustment/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L50)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L50)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
@@ -31,7 +31,7 @@ grand_parent: 設定
 
 ## 鎖住螢幕
 
-* [設定片段](https://github.com/samwhelp/note-about-xerolinux/blob/gh-pages/_demo/adjustment/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L49)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L49)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
@@ -40,7 +40,7 @@ grand_parent: 設定
 
 ## 休眠
 
-* [設定片段](https://github.com/samwhelp/note-about-xerolinux/blob/gh-pages/_demo/adjustment/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L314)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L314)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
