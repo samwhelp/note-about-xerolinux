@@ -34,6 +34,7 @@ grand_parent: 設定
 | 主題 |
 | --- |
 | [系統操作](keybind/system-control) |
+| [系統選單](keybind/system-menu) |
 
 
 ## 開啟應用程式
@@ -41,9 +42,7 @@ grand_parent: 設定
 | 主題 |
 | --- |
 | [開啟 Terminal](keybind/application-launch-terminal) |
-| [開啟 Rofi](keybind/application-launch-rofi) |
 | [開啟常用的應用程式](keybind/application-launch-favorite) |
-| [聚焦常用的應用程式](keybind/application-focus-fn) |
 
 
 ## 視窗操作
