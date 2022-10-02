@@ -47,6 +47,24 @@ grand_parent: 設定
 | `Alt + Ctrl + z`  | 休眠 |  |
 
 
+## Toggle Overview
+
+* [config snippet](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L72)
+
+| Keybind           | Action        | Command             |
+| ----------------- | ------------ | -------------------- |
+| `Meta + grave`  | Toggle Overview | `Overview` |
+
+> grave 指的是 `
+
+
+## Toggle Present Windows
+
+* [config snippet](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L58)
+
+| Keybind           | Action        | Command             |
+| ----------------- | ------------ | -------------------- |
+| `Meta + Tab`  | Toggle Present Windows (Current desktop) | `Expose` |
 
 
 
