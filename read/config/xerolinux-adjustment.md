@@ -20,4 +20,4 @@ parent: 設定
 
 ## 微調專案
 
-* [xerolinux-adjustment](hhttps://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/xerolinux/part/xerolinux-keybind-main)
+* [xerolinux-adjustment](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/xerolinux/part/xerolinux-keybind-main)
