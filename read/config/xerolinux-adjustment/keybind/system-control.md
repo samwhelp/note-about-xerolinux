@@ -49,7 +49,7 @@ grand_parent: 設定
 
 ## Toggle Overview
 
-* [config snippet](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L72)
+* [config snippet](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main/config/kde/kglobalshortcutsrc#L72)
 
 | Keybind           | Action        | Command             |
 | ----------------- | ------------ | -------------------- |
@@ -60,7 +60,7 @@ grand_parent: 設定
 
 ## Toggle Present Windows
 
-* [config snippet](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L58)
+* [config snippet](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main/config/kde/kglobalshortcutsrc#L58)
 
 | Keybind           | Action        | Command             |
 | ----------------- | ------------ | -------------------- |

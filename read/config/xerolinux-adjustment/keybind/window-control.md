@@ -28,7 +28,7 @@ grand_parent: 設定
 
 ## 關閉視窗
 
-* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L133)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main/config/kde/kglobalshortcutsrc#L133)
 
 | 按鍵組合          | 功能     | 執行指令         |
 | ----------------- | -------- | ---------------- |
@@ -38,7 +38,7 @@ grand_parent: 設定
 
 ## 全螢幕
 
-* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L134)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main/config/kde/kglobalshortcutsrc#L134)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -47,7 +47,7 @@ grand_parent: 設定
 
 ## 最大化
 
-* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L138)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main/config/kde/kglobalshortcutsrc#L138)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -59,7 +59,7 @@ grand_parent: 設定
 
 ## 最小化
 
-* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L141)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main/config/kde/kglobalshortcutsrc#L141)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -69,7 +69,7 @@ grand_parent: 設定
 
 ## 開始視窗移動
 
-* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L142)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main/config/kde/kglobalshortcutsrc#L142)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -80,7 +80,7 @@ grand_parent: 設定
 
 ## 開始視窗更改大小
 
-* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L164)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main/config/kde/kglobalshortcutsrc#L164)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -91,7 +91,7 @@ grand_parent: 設定
 
 ## 永遠在最上方
 
-* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L131)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main/config/kde/kglobalshortcutsrc#L131)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -100,7 +100,7 @@ grand_parent: 設定
 
 ## 永遠在最下方
 
-* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L132)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main/config/kde/kglobalshortcutsrc#L132)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -109,7 +109,7 @@ grand_parent: 設定
 
 ## 內容區塊收合
 
-* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L165)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main/config/kde/kglobalshortcutsrc#L165)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -118,7 +118,7 @@ grand_parent: 設定
 
 ## 切換顯示隱藏視窗裝飾
 
-* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L144)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main/config/kde/kglobalshortcutsrc#L144)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -129,7 +129,7 @@ grand_parent: 設定
 
 ## 將下方視窗移上來
 
-* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L118)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main/config/kde/kglobalshortcutsrc#L118)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -138,7 +138,7 @@ grand_parent: 設定
 
 ## 視窗移動至中央部位
 
-* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/blob/main/prototype/xerolinux/part/xerolinux-keybind-main/config/xerolinux/kglobalshortcutsrc#L67)
+* [設定片段](https://github.com/samwhelp/xerolinux-adjustment/tree/main/prototype/de/kde/part/kde-keybind-main/config/kde/kglobalshortcutsrc#L67)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
