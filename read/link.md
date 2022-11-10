@@ -26,6 +26,11 @@ has_children: true
 * [https://sourceforge.net/u/techxero/profile/](https://sourceforge.net/u/techxero/profile/)
 
 
+## XeroLinuxDev
+
+* GitHub / [XeroLinuxDev](https://github.com/XeroLinuxDev)
+
+
 ## YouTube
 
 * [A Chat With DarkXero, Creator of XeroLinux](https://www.youtube.com/watch?v=JvWP8cFcwgE)
